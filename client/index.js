@@ -7,5 +7,5 @@ ReactDOM.render(
   <Provider store={store}>
     <div>Hello world!</div>
   </Provider>,
-  document.getElementById('app');
+  document.getElementById('app')
 );
